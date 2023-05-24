@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.scapets.com.br
+  - host: gohomologacao.agapesistemas.com.br
     http:
       paths:
         - path: /
